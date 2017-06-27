@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.JPG</file>
+        <file>Mapscreen.qml</file>
+    </qresource>
+</RCC>

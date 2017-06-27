@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/basket.jpg</file>
+        <file>images/bg.jpg</file>
+        <file>images/bg2.jpg</file>
+        <file>images/bg3.png</file>
+        <file>images/chicken.jpg</file>
+        <file>images/chicken2.png</file>
+        <file>images/dangeregg.jpg</file>
+        <file>images/giftegg.jpg</file>
+        <file>images/goldenegg.png</file>
+        <file>images/goldenegg2.png</file>
+        <file>images/whiteegg.png</file>
+        <file>Egg.qml</file>
+        <file>images/brokenegg.svg</file>
+        <file>BrokenEgg.qml</file>
+        <file>Basket.qml</file>
+        <file>images/basket.png</file>
+        <file>images/basketbig.png</file>
+    </qresource>
+</RCC>

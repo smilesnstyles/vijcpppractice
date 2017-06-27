@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>me.png</file>
+        <file>DragNDropElement.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>

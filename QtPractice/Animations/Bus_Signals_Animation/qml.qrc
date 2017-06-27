@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>animated-bus-image-0008.gif</file>
+        <file>Road.jpg</file>
+        <file>Game1.qml</file>
+        <file>Game2.qml</file>
+        <file>GameChoice.qml</file>
+    </qresource>
+</RCC>
